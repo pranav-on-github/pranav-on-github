@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Pranav Ramesh
+- 👋 Hi, I'm Pranav R.P
 - 👀 I’m interested in Machine Learning/Data science
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on simple and interesting projects
