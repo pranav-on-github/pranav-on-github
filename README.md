@@ -1,11 +1,12 @@
+![EsteemedHugeAsianlion-size_restricted](https://user-images.githubusercontent.com/100747886/215261719-98c7b1f8-351f-4dea-a148-07e41ce6cc59.gif)
+
+
 - 👋 Hi, I'm Pranav R.P
 - 👀 I’m interested in Machine Learning/Data science
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on simple and interesting projects
+- 💞️ I’m looking to collaborate on simple and interesting projects                       
 - 📫 How to reach me : pranavramesh2004@gmail.com
 
-
-![parama-padi-da](https://user-images.githubusercontent.com/100747886/215261321-5d1c7628-30d4-4b8d-a29d-59854686f329.gif)
 
 
 <!---
