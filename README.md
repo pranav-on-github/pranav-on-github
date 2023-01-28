@@ -1,3 +1,5 @@
+![68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966](https://user-images.githubusercontent.com/100747886/215262111-8a90642e-e934-4da4-b1a9-7f8b1ede4e75.gif)
+
 
 - 👋 Hi, I'm Pranav R.P
 - 👀 I’m interested in Machine Learning/Data science
