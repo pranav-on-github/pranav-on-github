@@ -2,7 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/100747886/215262111-8a90642e-e934-4da4-b1a9-7f8b1ede4e75.gif" width="450" height="250">
 
+![Fancy logo](./dark.png#gh-dark-mode-only)
+![Fancy logo](./light.png#gh-light-mode-only)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
+</picture>
 - 👋 Hi, I'm Pranav R.P
 - 👀 I’m interested in Machine Learning/Data science
 - 🌱 I’m currently learning DSA
