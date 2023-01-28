@@ -1,5 +1,3 @@
-![EsteemedHugeAsianlion-size_restricted](https://user-images.githubusercontent.com/100747886/215261719-98c7b1f8-351f-4dea-a148-07e41ce6cc59.gif =250*250)
-
 
 - 👋 Hi, I'm Pranav R.P
 - 👀 I’m interested in Machine Learning/Data science
