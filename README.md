@@ -4,10 +4,10 @@
 
 
 - 👋 Hi, I'm Pranav R.P
-- 👀 I’m interested in Machine Learning/Data science
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on simple and interesting projects                       
-- 📫 How to reach me : pranavramesh2004@gmail.com
+- 👀 I’m a Machine Learning Engineer/Comp Science Student
+- 🌱 I’m currently learning Data Structures and Algos
+- 💞️ Open for Research-Oriented projects and Collabration                       
+- 📫 Reach me: pranavramesh2004@gmail.com
 
 
 
