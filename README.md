@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/100747886/215262111-8a90642e-e934-4da4-b1a9-7f8b1ede4e75.gif" width="450" height="250">
 
 
-- 👋 Hi, I'm Pranav R.P
+- #👋 Hi, I'm Pranav R.P
 - 👀 I’m a Machine Learning Engineer/Comp Science Student
 - 🌱 I’m currently learning Data Structures and Algos
 - 💞️ Open for Research-Oriented projects and Collabration                       
