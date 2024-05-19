@@ -8,7 +8,7 @@
 <!--[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-on-github)](https://github.com/pranav-on-github/github-readme-stats)-->
 
 
-- 👋 Hi, I'm Pranav R.P
+- 🔭 I’m currently working on myself.
 - 👀 I’m a Machine Learning Engineer/Comp Science Student
 - 🌱 I’m currently learning Data Structures and Algos
 - 💞️ Open for Research-Oriented projects and Collabration                       
