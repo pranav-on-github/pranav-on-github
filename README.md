@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/100747886/215262111-8a90642e-e934-4da4-b1a9-7f8b1ede4e75.gif" width="450" height="250">
 
-[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-on-github)](https://github.com/pranav-on-github/github-readme-stats)
+[[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-on-github)](https://github.com/pranav-on-github/github-readme-stats)]
 
 
 - 🔭 I’m currently working on myself.
