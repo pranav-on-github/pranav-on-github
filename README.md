@@ -13,7 +13,7 @@
 - 👀 I’m a Machine Learning Engineer/Comp Science Student
 - 🌱 I’m currently learning Data Structures and Algos
 - 💞️ Open for Research-Oriented projects and Collabration                       
-- 📫 Reach me: pranavramesh2004@gmail.com
+- 📫 Reach me: pranavramesh.official@gmail.com
 
 
 
