@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+CS+Graduate)](https://git.io/typing-svg)
 </h1>
-[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/pranav-ramesh2004) &nbsp;
+<!--[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/pranav-ramesh2004) &nbsp;-->
 
 
 <img src="https://user-images.githubusercontent.com/100747886/215262111-8a90642e-e934-4da4-b1a9-7f8b1ede4e75.gif" width="450" height="250">
