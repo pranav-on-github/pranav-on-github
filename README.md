@@ -4,7 +4,7 @@
 <h1 align="left"> Hey! I'm Pranav R P !
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+CS+Graduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&left=true&width=435&lines=A+CS+Graduate)](https://git.io/typing-svg)
 </h1>
 <!--[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/pranav-ramesh2004) &nbsp;-->
 
