@@ -19,6 +19,7 @@
 - 🌱 I’m currently learning Data Structures and Algos
 - 💞️ Open for Research-Oriented projects and Collabration                       
 - 📫 Reach me: pranavramesh.official@gmail.com
+- 🧠 Check out my Research Papers on [ResearchGate](https://www.researchgate.net/profile/Pranav-R-P)
 
 
 
